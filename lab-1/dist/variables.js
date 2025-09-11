@@ -1,0 +1,12 @@
+var myString = "Hello, TypeScript!";
+var myNumber = 2025;
+var myBoolean = true;
+var myAny = "Anything";
+console.log("string:", myString);
+console.log("number:", myNumber);
+console.log("boolean:", myBoolean);
+console.log("any:", myAny);
+var stringArray = ["apple", "banana", "pear"];
+var numberArray = [10, 20, 30, 40];
+console.log("string array:", stringArray);
+console.log("number array:", numberArray);
