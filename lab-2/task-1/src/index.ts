@@ -1,3 +1,4 @@
+// 1
 import { Cat } from "./cat";
 import { Bird } from "./bird";
 import { Fish } from "./fish";
